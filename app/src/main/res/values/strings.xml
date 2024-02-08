@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="loding">Загрузка</string>
+
+    <string name="margarita_ingredients">Томатный соус, моццарелла, свежие помидоры, базилик.</string>
+    <string name="pepperoni_ingredients">Томатный соус, моццарелла, пепперони (колбаски из говядины), орегано.</string>
+    <string name="hawaiskay_ingredients">Томатный соус, моццарелла, курица, ананасы, ветчина.</string>
+    <string name="four_cheeses_ingredients"> Томатный соус, моццарелла, пармезан, горгонзола, рикотта.</string>
+    <string name="vegeterian_ingredients">Томатный соус, моццарелла, грибы, паприка, оливки, лук, шпинат.</string>
+    <string name="mexican_ingredients">Томатный соус, моццарелла, говяжье фарш, горчица, острый перец, красный лук.</string>
+    <string name="seafoods_ingredients">Белый соус, моццарелла, креветки, кальмары, мидии, лосось.</string>
+    <string name="barbeky_chicken_ingredients">Барбекю-соус, моццарелла, цыпленок, красный лук, сладкий перец.</string>
+    <string name="mushroom_ingredients">Белый соус, моццарелла, шампиньоны, лисички, трюфельное масло.</string>
+    <string name="detroit_ingredients">Томатный соус, моццарелла, чеддер, баварская колбаса, зелень.</string>
+    <string name="toskanian_ingredients">Томатный соус, моццарелла, оливки, вяленые томаты, итальянская колбаса, розмарин.</string>
+    <string name="carbonara_ingredients">Карбонарный соус, моццарелла, бекон, яйцо, пармезан, чеснок.</string>
+    <string name="medeterenian_ingredients">Томатный соус, моццарелла, оливки, фета, красный лук, каперсы.</string>
+    <string name="brusselckay_ingredients">Томатный соус, моццарелла, брюссельская капуста, грудинка, клюква, горчица.</string>
+    <string name="indian_ingredients"> Карри-соус, моццарелла, тандури-курица, манго, кешью, кинза.</string>
+
+    <string name="margarita_des">Классическая и простая пицца, которая отличается своей свежестью и прекрасно подходит для любителей минимализма.</string>
+    <string name="pepperoni_des">Пикантная и ароматная пицца с тонкими круглыми колбасками пепперони, которые придают ей особый вкус.</string>
+    <string name="hawaiskay_des">Сочетание сладких ананасов и соленой ветчины делает эту пиццу невероятно вкусной и уникальной.</string>
+    <string name="four_cheeses_des">Пицца для настоящих гурманов с обильным количеством разных сортов сыра, создающих богатый вкус.</string>
+    <string name="vegeterian_des">Пицца без мяса, но с множеством сочных овощей, идеально подходит для вегетарианцев.</string>
+    <string name="mexican_des">Пицца с пикантным мексиканским вкусом, приправленная острым перцем и горчицей.</string>
+    <string name="seafoods_dess">Роскошная пицца с морскими дарами, которая радует ценителей морепродуктов.</string>
+    <string name="barbeky_des">Пицца с соусом барбекю и нежным курином мясом, создающая неповторимый вкус.</string>
+    <string name="mushroom_des">Элегантная пицца с нежными грибами и трюфельным маслом для настоящих гурманов</string>
+    <string name="detroit_des">Толстая и влажная пицца, известная своими густыми краями и обилием сыра.</string>
+    <string name="toskanian_des">Пицца, вдохновленная Тосканской кухней, с множеством ароматных ингредиентов.</string>
+    <string name="carbonara_des">Пицца, вдохновленная классическим итальянским блюдом карбонара, с насыщенным вкусом бекона и сливочного соуса.</string>
+    <string name="medeterenian_des">Пицца с яркими средиземноморскими вкусами и морскими акцентами.</string>
+    <string name="brusselckay_des">Оригинальная пицца с брюссельской капустой и грудкой, украшенная клюквой и горчицей.</string>
+    <string name="indian_des">Пицца с индийскими специями и вкусом тандури-курицы, которая напоминает о восточных кулинарных приключениях.</string>
+    <string name="pizza_size_35">35 см</string>
+    <string name="choose_button">Выбрать</string>
+
+
+</resources>
